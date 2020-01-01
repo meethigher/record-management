@@ -16,8 +16,6 @@ import javax.swing.JTable;
 import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
 
-import com.mkk.swing.JCalendarChooser;
-import com.mkk.swing.JTimeChooser;
 import com.service.RecordService;
 import com.util.DatabaseManager;
 import com.util.DateSelector;
