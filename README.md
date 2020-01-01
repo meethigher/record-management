@@ -33,3 +33,7 @@ mysql 8.0+
    * 删除数据
    * 导出数据
 3. 退出
+
+## 四、项目文档
+
+[在线文档](https://meethigher.github.io/record-management/)
